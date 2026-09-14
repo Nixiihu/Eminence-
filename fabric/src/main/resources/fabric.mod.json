@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "eminence",
+  "version": "${version}",
+  "name": "Eminence Client Bridge",
+  "description": "Single-player native client bridge for Minecraft 1.21.11.",
+  "authors": ["Eminence"],
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.eminence.client.EminenceClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "1.21.11",
+    "fabric-api": "*"
+  }
+}

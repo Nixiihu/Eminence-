@@ -1,0 +1,294 @@
+{
+  "version": 3,
+  "game": "1.21.11",
+  "menu": {
+    "key": "RIGHT_SHIFT",
+    "accentMode": "preset",
+    "accentPreset": "Purple",
+    "descriptions": true,
+    "searchBar": true
+  },
+  "categories": [
+    "Legit",
+    "Semi-Rage",
+    "Visual",
+    "Misc"
+  ],
+  "modules": {
+    "Aimbot": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Anchor Macro": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto Clicker": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto Drain": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto Jump Reset": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto MLG": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Backtrack": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Bridge Assist": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Cobweb Key": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Crit Helper": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Fake Log": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Fast Exp": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Fluid Key": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Hitboxes": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Instant Shield": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Keep Sprint": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "No Jump Delay": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto Cart Bow": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto Crystal": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto Elytra": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto Hit Crystal": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto Mace": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto Pearl Catch": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto Pot": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto Shield Breaker": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto Totem": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto Web": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Bow Auto Cart": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Bow Boost": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Breach Swap": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Diagonal Pearl Catch": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Double Anchor": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Elytra Bounce": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Elytra Wind Charge": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "ESP": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Hit Effect": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "HUD": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Item ESP": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "No Bounce": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Optimization": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Storage ESP": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Toggle Notifications": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Anti Action": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Anti Bot": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto Armor": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto Pickaxe": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Auto Tool": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Cart Refill": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Chest Stealer": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Click Friend": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Crystal Optimizer": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Fast Place": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Friends": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Refill": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    },
+    "Sprint": {
+      "enabled": false,
+      "keybind": "UNBOUND",
+      "settings": {}
+    }
+  }
+}
